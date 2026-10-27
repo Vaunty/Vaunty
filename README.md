@@ -37,23 +37,23 @@
 
 <h3 align="center">🔬 <a href="https://github.com/Vaunty/hadagent-verification-study">HadAgent Verification Study</a></h3>
 
-<p align="center">Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.<br>
-<sub>Python · Local verification tests</sub></p>
+<p align="center">Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.</p>
+<p align="center"><em>Python · Local verification tests</em></p>
 
 <h3 align="center">💬 <a href="https://github.com/ponzek/DebateCoach">Debate Coach · CRA UR2PhD</a></h3>
 
-<p align="center">Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.<br>
-<sub>JavaScript · Node.js · OpenAI API</sub></p>
+<p align="center">Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.</p>
+<p align="center"><em>JavaScript · Node.js · OpenAI API</em></p>
 
 <h3 align="center">🛡️ <a href="https://github.com/Vaunty/legacy-red-team-harness">LLM Red-Team Harness</a></h3>
 
-<p align="center">Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.<br>
-<sub>Python · Ollama · SQLite</sub></p>
+<p align="center">Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.</p>
+<p align="center"><em>Python · Ollama · SQLite</em></p>
 
 <h3 align="center">🎓 <a href="https://github.com/Vaunty/fine-tuned-llm-adaptive-learning">Adaptive Learning with LLMs</a></h3>
 
-<p align="center">Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.<br>
-<sub>JavaScript · Node.js · OpenAI API</sub></p>
+<p align="center">Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.</p>
+<p align="center"><em>JavaScript · Node.js · OpenAI API</em></p>
 
 <details>
 <summary><b>Research context & contributions</b></summary>
