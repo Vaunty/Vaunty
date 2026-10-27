@@ -53,10 +53,23 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 | **AI-assisted workflow** | Claude Code · Codex |
 | **Coursework exposure** | TypeScript · Wireshark · Metasploit · Hashcat · Autopsy |
 
+## Conferences & research community
+
+- **Great Minds in STEM (2025 & 2026):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
+- **CRA UR2PhD Undergraduate Mentoring Workshop & Research Showcase (April 2026, New Orleans):** presented our team's Debate Coach research and participated in research-career and graduate-school discussions.
+- **PyCon US (2024):** participated in open-source work on Python libraries and developer documentation; selected contributions are linked below.
+- **International Forum We, the Youth (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
+
+## Open-source contributions
+
+- **[pyOpenSci](https://github.com/pyOpenSci/python-package-guide/pull/278):** proposed Windows-specific pipx installation instructions for the Hatch tutorial. [Recognized as a contributor for code and review](https://github.com/pyOpenSci/python-package-guide/pull/290).
+- **[PyScript documentation](https://github.com/pyscript/docs/pull/121):** submitted a correction to the getting-started guide clarifying JSON configuration setup.
+- **[annotated-types](https://github.com/annotated-types/annotated-types/pull/68):** collaborated with [cksleigen](https://github.com/cksleigen) on a proposed improvement to `GroupedMetadata` handling during my first open-source contributions.
+
 ## 🌍 Teaching & community
 
 - **Kean Center for Cybersecurity:** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
-- **WiCyS secretary:** organized a campus SMART Scholarship talk for 15 attendees.
+- **WiCyS secretary / PHD4FREE!:** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student Demetrius Hernandez for 15 attendees.
 - **IFWY fellow:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
 
 ---
