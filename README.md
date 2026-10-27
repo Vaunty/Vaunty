@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Matthew Ngoy &#128075;</h1>
 
 <p align="center">
-  <strong>Computer Science &amp; Cybersecurity ? Kean University '27</strong><br>
-  AI security ? LLM red-teaming<br>
+  <strong>Computer Science &amp; Cybersecurity &middot; Kean University '27</strong><br>
+  AI security &middot; LLM red-teaming<br>
   Undergraduate researcher with <a href="https://www.liboyang.org/">Dr. Boyang Li</a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <strong>Seeking Summer 2027 internships</strong><br>
-  AI security ? Security engineering ? Applied AI research
+  AI security &middot; Security engineering &middot; Applied AI research
 </p>
 
 <p align="center">
@@ -35,12 +35,29 @@
 
 ## 🛠️ Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🔬 **[HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)** | Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions. | Python · Local verification tests |
-| 💬 **[Debate Coach · CRA UR2PhD](https://github.com/ponzek/DebateCoach)** | Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation. | JavaScript · Node.js · OpenAI API |
-| 🛡️ **[LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)** | Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts. | Python · Ollama · SQLite |
-| 🎓 **[Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)** | Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe. | JavaScript · Node.js · OpenAI API |
+### 🔬 [HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)
+
+Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.
+
+**Stack:** Python · Local verification tests
+
+### 💬 [Debate Coach · CRA UR2PhD](https://github.com/ponzek/DebateCoach)
+
+Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.
+
+**Stack:** JavaScript · Node.js · OpenAI API
+
+### 🛡️ [LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)
+
+Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.
+
+**Stack:** Python · Ollama · SQLite
+
+### 🎓 [Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)
+
+Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.
+
+**Stack:** JavaScript · Node.js · OpenAI API
 
 <details>
 <summary><b>Research context & contributions</b></summary>
