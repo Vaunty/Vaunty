@@ -72,7 +72,8 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 - **Great Minds in STEM (2025 & 2026):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
 - **CRA UR2PhD Undergraduate Mentoring Workshop & Research Showcase (April 2026, New Orleans):** presented our team's Debate Coach research and participated in research-career and graduate-school discussions.
 - **PyCon US (2024):** participated in open-source work on Python libraries and developer documentation; selected contributions are linked below.
-- **International Forum We, the Youth (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
+- **IFWY North American Regional Dialogue (September 2-3, 2025, Cornell Tech, Roosevelt Island, NYC):** selected as an IFWY Catalyst for the fully funded regional dialogue on environmental policy and sustainable solutions.
+- **International Forum We, the Youth Final Conference (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
 
 ## Open-source contributions
 
