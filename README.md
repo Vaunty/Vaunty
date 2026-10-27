@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matthew Ngoy &#128075;</h1>
 
 <p align="center">
-  <strong>Computer Science &amp; Cybersecurity &middot; Kean University '27</strong><br>
+  <strong>Computer Science &amp; Cybersecurity &middot; <a href="https://www.kean.edu/">Kean University</a> '27</strong><br>
   AI security &middot; LLM red-teaming<br>
   Undergraduate researcher with <a href="https://www.liboyang.org/">Dr. Boyang Li</a>
 </p>
@@ -30,34 +30,30 @@
 - **B.S. Computer Science, Cybersecurity Option**, Kean University. Graduating May 2027.
 - **Undergraduate researcher in [Boyang Li's group](https://www.liboyang.org/)** (Team → Current Students), studying verification in decentralized AI systems.
 - **AI security:** directing AI-assisted local experiments on a copied HadAgent prototype and studying methods for verifying LLM inference.
-- **Peer Mentor / Code Samurai:** helping Kean students work through Python, SQL, data structures, and debugging.
+- **[Peer Mentor / Code Samurai](https://yoda.kean.edu/~samurai/):** helping Kean students work through Python, SQL, data structures, and debugging.
 - **KEAN CTF 2027:** co-building a college capture-the-flag competition with teammates and AI assistance.
 
 <h2 align="center">🛠️ Featured projects</h2>
 
 <h3 align="center">🔬 <a href="https://github.com/Vaunty/hadagent-verification-study">HadAgent Verification Study</a></h3>
 
-Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.
-
-**Stack:** Python · Local verification tests
+<p align="center">Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.<br>
+<sub>Python · Local verification tests</sub></p>
 
 <h3 align="center">💬 <a href="https://github.com/ponzek/DebateCoach">Debate Coach · CRA UR2PhD</a></h3>
 
-Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.
-
-**Stack:** JavaScript · Node.js · OpenAI API
+<p align="center">Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.<br>
+<sub>JavaScript · Node.js · OpenAI API</sub></p>
 
 <h3 align="center">🛡️ <a href="https://github.com/Vaunty/legacy-red-team-harness">LLM Red-Team Harness</a></h3>
 
-Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.
-
-**Stack:** Python · Ollama · SQLite
+<p align="center">Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.<br>
+<sub>Python · Ollama · SQLite</sub></p>
 
 <h3 align="center">🎓 <a href="https://github.com/Vaunty/fine-tuned-llm-adaptive-learning">Adaptive Learning with LLMs</a></h3>
 
-Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.
-
-**Stack:** JavaScript · Node.js · OpenAI API
+<p align="center">Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.<br>
+<sub>JavaScript · Node.js · OpenAI API</sub></p>
 
 <details>
 <summary><b>Research context & contributions</b></summary>
@@ -91,7 +87,7 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 <table>
   <tr><th>Area</th><th>Tools &amp; methods</th></tr>
   <tr><td><strong>AI evaluation</strong></td><td>Ollama · OpenAI API · LLM-as-judge workflows · Citation checking</td></tr>
-  <tr><td><strong>Security</strong></td><td>OSINT · OWASP LLM Top 10 · MITRE ATLAS · Adversarial testing</td></tr>
+  <tr><td><strong>Security</strong></td><td>OSINT · <a href="https://genai.owasp.org/llm-top-10/">OWASP LLM Top 10</a> · <a href="https://atlas.mitre.org/">MITRE ATLAS</a> · Adversarial testing</td></tr>
   <tr><td><strong>Code &amp; data</strong></td><td>Python · Java · JavaScript · SQL · PHP · PowerShell</td></tr>
   <tr><td><strong>Development</strong></td><td>Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266</td></tr>
   <tr><td><strong>AI-assisted workflow</strong></td><td>Claude Code · Codex</td></tr>
@@ -102,20 +98,20 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 
 <h2 align="center">WELL & Young Envoys Scholarship</h2>
 
-**Selected for Kean University's Work-Earn-Live-Learn (WELL) Program, Summer 2026.** WELL combines paid campus work, residential learning, career development, and international study to support student success and timely graduation.
+**Selected for Kean University's [Work-Earn-Live-Learn (WELL) Program](https://www.kean.edu/news/new-cougar-career-collaborative-initiative-boosts-student-career-opportunities), Summer 2026.** WELL combines paid campus work, residential learning, career development, and international study to support student success and timely graduation.
 
-- **Cybersecurity internship:** investigated nonprofit cyber incidents through OSINT for the Non-Profit Cyber Incident Repository, built a browser-controlled Arduino MEGA/ESP8266 smart-home lab, and taught at the Port Authority STEaM Camp serving 60 high school students.
+- **Cybersecurity internship:** investigated nonprofit cyber incidents through OSINT for the [Non-Profit Cyber Incident Repository](https://www.kean.edu/academics/college-business-and-public-management/center-cybersecurity-1), built a browser-controlled Arduino MEGA/ESP8266 smart-home lab, and taught at the Port Authority STEaM Camp serving 60 high school students.
 - **Career development:** participated in Career Management coursework, resume and interview preparation, financial-literacy workshops, employer panels, and networking with Kean alumni.
-- **Young Envoys Scholarship Fellow:** participated in the June 13-22, 2026 educational and cultural exchange in Wenzhou and Beijing, China, through the China Education Association for International Exchange (CEAIE).
+- **[Young Envoys Scholarship Fellow](https://yes.ceaie.edu.cn/):** participated in the June 13-22, 2026 educational and cultural exchange in Wenzhou and Beijing, China, through the China Education Association for International Exchange (CEAIE).
 - **International speaking:** addressed international delegates at a CEAIE event in Beijing and reflected on the experience in my final WELL presentation, connecting technical work with cross-cultural communication and professional growth.
 
 <h2 align="center">Conferences & research community</h2>
 
-- **Great Minds in STEM (2025 & 2026):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
-- **CRA UR2PhD Undergraduate Mentoring Workshop & Research Showcase (April 2026, New Orleans):** presented our team's Debate Coach research and participated in research-career and graduate-school discussions.
-- **PyCon US (2024):** participated in open-source work on Python libraries and developer documentation; selected contributions are linked below.
-- **IFWY North American Regional Dialogue (September 2-3, 2025, Cornell Tech, Roosevelt Island, NYC):** selected as an IFWY Catalyst for the fully funded regional dialogue on environmental policy and sustainable solutions.
-- **International Forum We, the Youth Final Conference (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
+- **[Great Minds in STEM (2025 & 2026)](https://gmisconference.org/):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
+- **[CRA UR2PhD Undergraduate Mentoring Workshop & Research Showcase](https://cra.org/events/ur2phd-undergraduate-mentoring-workshop-research-showcase/) (April 2026, New Orleans):** presented our team's Debate Coach research and participated in research-career and graduate-school discussions.
+- **[PyCon US (2024)](https://us.pycon.org/2024/):** participated in open-source work on Python libraries and developer documentation; selected contributions are linked below.
+- **[IFWY North American Regional Dialogue](https://www.ifwy.world/en/experience/dialogues.php) (September 2-3, 2025, Cornell Tech, Roosevelt Island, NYC):** selected as an IFWY Catalyst for the fully funded regional dialogue on environmental policy and sustainable solutions.
+- **[International Forum We, the Youth Final Conference](https://www.ifwy.world/) (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
 
 <h2 align="center">Open-source contributions</h2>
 
@@ -125,7 +121,7 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 
 <h2 align="center">🌍 Teaching & community</h2>
 
-- **Kean Center for Cybersecurity:** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
+- **[Kean Center for Cybersecurity](https://www.kean.edu/academics/college-business-and-public-management/center-cybersecurity-0):** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
 - **WiCyS secretary / PHD4FREE!:** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student Demetrius Hernandez for 15 attendees.
 - **IFWY fellow:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
 
