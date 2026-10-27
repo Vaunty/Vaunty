@@ -1,15 +1,27 @@
-# Hi, I'm Matthew Ngoy 👋
+<h1 align="center">Hi, I'm Matthew Ngoy &#128075;</h1>
 
-**Computer Science & Cybersecurity @ Kean University ('27)** · AI security · LLM red-teaming · Undergraduate researcher with [Dr. Boyang Li](https://www.liboyang.org/)
+<p align="center">
+  <strong>Computer Science &amp; Cybersecurity ? Kean University '27</strong><br>
+  AI security ? LLM red-teaming<br>
+  Undergraduate researcher with <a href="https://www.liboyang.org/">Dr. Boyang Li</a>
+</p>
 
-I'm interested in how AI systems fail, how we test their defenses, and what evidence we need to trust their outputs.
+<p align="center">
+  I'm interested in how AI systems fail, how we test their defenses,<br>
+  and what evidence we need to trust their outputs.
+</p>
 
-🎯 **Seeking Summer 2027 internships** in AI security, security engineering, and applied AI research.
+<p align="center">
+  <strong>Seeking Summer 2027 internships</strong><br>
+  AI security ? Security engineering ? Applied AI research
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matthewngoy/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:ngoym@kean.edu)
-[![Industry resume PDF](https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge)](https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf)
-[![Research resume PDF](https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge)](https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthewngoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="mailto:ngoym@kean.edu"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" /></a><br>
+  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf"><img alt="Industry resume PDF" src="https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge" /></a>
+  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf"><img alt="Research resume PDF" src="https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -44,7 +56,20 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 <div align="center">
 
-<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&amp;perline=12" alt="Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino" /></a>
+<p align="center">
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" /></a>
+</p>
 
 <table>
   <tr><th>Area</th><th>Tools &amp; methods</th></tr>
