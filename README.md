@@ -42,16 +42,21 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 ## 🧰 Toolkit
 
-[![Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino](https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&perline=12)](https://skillicons.dev/)
+<div align="center">
 
-| Area | Tools & methods |
-|---|---|
-| **AI evaluation** | Ollama · OpenAI API · LLM-as-judge workflows · Citation checking |
-| **Security** | OSINT · OWASP LLM Top 10 · MITRE ATLAS · Adversarial testing |
-| **Code & data** | Python · Java · JavaScript · SQL · PHP · PowerShell |
-| **Development** | Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266 |
-| **AI-assisted workflow** | Claude Code · Codex |
-| **Coursework exposure** | TypeScript · Wireshark · Metasploit · Hashcat · Autopsy |
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&amp;perline=12" alt="Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino" /></a>
+
+<table>
+  <tr><th>Area</th><th>Tools &amp; methods</th></tr>
+  <tr><td><strong>AI evaluation</strong></td><td>Ollama · OpenAI API · LLM-as-judge workflows · Citation checking</td></tr>
+  <tr><td><strong>Security</strong></td><td>OSINT · OWASP LLM Top 10 · MITRE ATLAS · Adversarial testing</td></tr>
+  <tr><td><strong>Code &amp; data</strong></td><td>Python · Java · JavaScript · SQL · PHP · PowerShell</td></tr>
+  <tr><td><strong>Development</strong></td><td>Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266</td></tr>
+  <tr><td><strong>AI-assisted workflow</strong></td><td>Claude Code · Codex</td></tr>
+  <tr><td><strong>Coursework exposure</strong></td><td>TypeScript · Wireshark · Metasploit · Hashcat · Autopsy</td></tr>
+</table>
+
+</div>
 
 ## Conferences & research community
 
