@@ -42,7 +42,7 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 ## 🧰 Toolkit
 
-[![Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino](https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&perline=6)](https://skillicons.dev/)
+[![Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino](https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&perline=12)](https://skillicons.dev/)
 
 | Area | Tools & methods |
 |---|---|
@@ -61,4 +61,7 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 ---
 
-Happy to talk **AI security, research, or teaching**. [Get in touch](mailto:ngoym@kean.edu) · [Visit my card](https://vaunty.github.io/card/).
+<p align="center">
+  Happy to talk <strong>AI security, research, or teaching</strong>.<br>
+  <a href="mailto:ngoym@kean.edu">Get in touch</a> &middot; <a href="https://vaunty.github.io/card/">Visit my card</a>
+</p>
