@@ -26,6 +26,7 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 | Project | What it does | Stack |
 |---|---|---|
 | 🔬 **[HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)** | Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions. | Python · Local verification tests |
+| 💬 **[Debate Coach · CRA UR2PhD](https://github.com/ponzek/DebateCoach)** | Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation. | JavaScript · Node.js · OpenAI API |
 | 🛡️ **[LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)** | Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts. | Python · Ollama · SQLite |
 | 🎓 **[Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)** | Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe. | JavaScript · Node.js · OpenAI API |
 
@@ -34,10 +35,10 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 - **HadAgent:** I direct research questions and interpret results. AI agents contributed substantially to experiment design, implementation, execution, and review. Findings concern the tested local snapshot, not a deployed network or the complete protocol.
 - **Adaptive learning:** the project uses synthetic dialogues and learner profiles. It does not establish improved student learning outcomes.
-- **Debate Coach, CRA UR2PhD:** helped fine-tune and evaluate LLM debate coaches with two teammates, including an AI-assisted citation audit.
-- **Gen Z housing demographics, NSF IUSE:** sole student author on a study of county-level associations, presented at Great Minds in STEM.
 
 </details>
+
+**Research presentations:** NSF IUSE Scholars Academy (2025 and 2026). Presented adaptive-learning response comparisons as first author and a Gen Z housing-demographics study as sole student author at Great Minds in STEM. The studies concern model responses and county-level associations, respectively; neither establishes a causal effect.
 
 ## 🧰 Toolkit
 
@@ -49,6 +50,8 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 | **Security** | OSINT · OWASP LLM Top 10 · MITRE ATLAS · Adversarial testing |
 | **Code & data** | Python · Java · JavaScript · SQL · PHP · PowerShell |
 | **Development** | Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266 |
+| **AI-assisted workflow** | Claude Code · Codex |
+| **Coursework exposure** | TypeScript · Wireshark · Metasploit · Hashcat · Autopsy |
 
 ## 🌍 Teaching & community
 
