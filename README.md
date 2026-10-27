@@ -1,57 +1,61 @@
 # Hi, I'm Matthew Ngoy 👋
 
-**Computer Science (Cybersecurity) student at Kean University · May 2027**  
-AI security · LLM red-teaming · Verifiable machine learning
+**Computer Science & Cybersecurity @ Kean University ('27)** · AI security · LLM red-teaming · Undergraduate researcher with [Dr. Boyang Li](https://www.liboyang.org/)
 
-I'm interested in how AI systems fail, how we test their defenses, and what evidence we need to trust their outputs. My work brings together security experiments, LLM evaluation, and teaching.
+I'm interested in how AI systems fail, how we test their defenses, and what evidence we need to trust their outputs.
 
-🎯 **Seeking Summer 2027 internships in AI security, security engineering, and applied AI research.**
+🎯 **Seeking Summer 2027 internships** in AI security, security engineering, and applied AI research.
 
-[LinkedIn](https://www.linkedin.com/in/matthewngoy/) · [Email](mailto:ngoym@kean.edu) · [Resumes](https://vaunty.github.io/card/) · [Research group](https://www.liboyang.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matthewngoy/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:ngoym@kean.edu)
+[![Industry resume PDF](https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge)](https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf)
+[![Research resume PDF](https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge)](https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf)
 
-## 🔬 What I'm working on
+---
 
-- **Undergraduate researcher with [Dr. Boyang Li at Kean](https://www.liboyang.org/)**, studying verification in decentralized AI systems. I'm listed under **Team → Current Students** on his site.
-- **AI red-teaming and evaluation:** directing AI-assisted local experiments on a copied HadAgent prototype and documenting exactly what its verifier checks.
-- **Literature review:** studying approaches to verifying LLM inference, including re-execution, statistical checks, and cryptographic proofs.
-- **Cybersecurity education:** mentoring students through Kean's Code Samurai program and co-building KEAN CTF 2027 with teammates.
+## 🔬 Right now
+
+- **B.S. Computer Science, Cybersecurity Option**, Kean University. Graduating May 2027.
+- **Undergraduate researcher in [Boyang Li's group](https://www.liboyang.org/)** (Team → Current Students), studying verification in decentralized AI systems.
+- **AI security:** directing AI-assisted local experiments on a copied HadAgent prototype and studying methods for verifying LLM inference.
+- **Peer Mentor / Code Samurai:** helping Kean students work through Python, SQL, data structures, and debugging.
+- **KEAN CTF 2027:** co-building a college capture-the-flag competition with teammates and AI assistance.
 
 ## 🛠️ Featured projects
 
-### [HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)
+| Project | What it does | Stack |
+|---|---|---|
+| 🔬 **[HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)** | Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions. | Python · Local verification tests |
+| 🛡️ **[LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)** | Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts. | Python · Ollama · SQLite |
+| 🎓 **[Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)** | Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe. | JavaScript · Node.js · OpenAI API |
 
-A local study of score validation and model-verification boundaries in a copied research prototype. Includes experiment protocols, result records, scope diagrams, and reproducibility instructions.
+<details>
+<summary><b>Research context & contributions</b></summary>
 
-**My role:** research direction and interpretation, with substantial AI-agent contributions to experiment design, implementation, execution, and review. The findings concern the tested local snapshot, not a deployed network or the complete protocol.
+- **HadAgent:** I direct research questions and interpret results. AI agents contributed substantially to experiment design, implementation, execution, and review. Findings concern the tested local snapshot, not a deployed network or the complete protocol.
+- **Adaptive learning:** the project uses synthetic dialogues and learner profiles. It does not establish improved student learning outcomes.
+- **Debate Coach, CRA UR2PhD:** helped fine-tune and evaluate LLM debate coaches with two teammates, including an AI-assisted citation audit.
+- **Gen Z housing demographics, NSF IUSE:** sole student author on a study of county-level associations, presented at Great Minds in STEM.
 
-*Python · Local verification tests · Reproducible experiments*
+</details>
 
-### [LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)
+## 🧰 Toolkit
 
-An archived pipeline for running prompt-injection, jailbreak, and data-leak test cases against local models. It records transcripts and model-judge verdicts in SQLite and JSONL, with offline tests for the pipeline.
+[![Python, Java, JavaScript, PHP, PowerShell, Linux, Docker, Git, MySQL, SQLite, Node.js, and Arduino](https://skillicons.dev/icons?i=py,java,js,php,powershell,linux,docker,git,mysql,sqlite,nodejs,arduino&perline=6)](https://skillicons.dev/)
 
-*Python · Ollama · SQLite · LLM-as-judge evaluation*
+| Area | Tools & methods |
+|---|---|
+| **AI evaluation** | Ollama · OpenAI API · LLM-as-judge workflows · Citation checking |
+| **Security** | OSINT · OWASP LLM Top 10 · MITRE ATLAS · Adversarial testing |
+| **Code & data** | Python · Java · JavaScript · SQL · PHP · PowerShell |
+| **Development** | Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266 |
 
-### [Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)
+## 🌍 Teaching & community
 
-A prototype that adds synthetic learner profiles to educational dialogues, prepares chat fine-tuning data, and validates the resulting records. Includes a three-profile qualitative probe; learning outcomes have not been established.
+- **Kean Center for Cybersecurity:** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
+- **WiCyS secretary:** organized a campus SMART Scholarship talk for 15 attendees.
+- **IFWY fellow:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
 
-*JavaScript · Node.js · JSONL · OpenAI API*
+---
 
-## 🎓 Beyond the repositories
-
-- **Kean Center for Cybersecurity:** investigated nonprofit cyber incidents through OSINT and contributed to hands-on security education.
-- **Code Samurai peer mentor:** help students work through Python, SQL, databases, and data structures.
-- **CRA UR2PhD, Debate Coach:** worked with two teammates to fine-tune and evaluate LLM debate coaches, including an AI-assisted citation audit.
-- **International Forum We, the Youth:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
-
-## 🧰 Tools in my projects
-
-**Code:** Python · JavaScript · SQL  
-**AI evaluation:** Ollama · OpenAI API · LLM-as-judge workflows  
-**Development:** Git · Docker · Node.js · SQLite  
-**Security interests:** prompt injection · jailbreak robustness · agent reliability · verification of AI computation
-
-I use AI coding and research tools in my workflow. The research repositories document their contributions and distinguish synthetic tests from measured model behavior.
-
-Happy to talk AI security, research, or teaching. [Get in touch](mailto:ngoym@kean.edu).
+Happy to talk **AI security, research, or teaching**. [Get in touch](mailto:ngoym@kean.edu) · [Visit my card](https://vaunty.github.io/card/).
