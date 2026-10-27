@@ -25,7 +25,7 @@
 
 ---
 
-## 🔬 Right now
+<h2 align="center">🔬 Right now</h2>
 
 - **B.S. Computer Science, Cybersecurity Option**, Kean University. Graduating May 2027.
 - **Undergraduate researcher in [Boyang Li's group](https://www.liboyang.org/)** (Team → Current Students), studying verification in decentralized AI systems.
@@ -33,27 +33,27 @@
 - **Peer Mentor / Code Samurai:** helping Kean students work through Python, SQL, data structures, and debugging.
 - **KEAN CTF 2027:** co-building a college capture-the-flag competition with teammates and AI assistance.
 
-## 🛠️ Featured projects
+<h2 align="center">🛠️ Featured projects</h2>
 
-### 🔬 [HadAgent Verification Study](https://github.com/Vaunty/hadagent-verification-study)
+<h3 align="center">🔬 <a href="https://github.com/Vaunty/hadagent-verification-study">HadAgent Verification Study</a></h3>
 
 Tests score validation and model-verification boundaries in a copied research prototype. Includes protocols, result records, and reproducibility instructions.
 
 **Stack:** Python · Local verification tests
 
-### 💬 [Debate Coach · CRA UR2PhD](https://github.com/ponzek/DebateCoach)
+<h3 align="center">💬 <a href="https://github.com/ponzek/DebateCoach">Debate Coach · CRA UR2PhD</a></h3>
 
 Team research comparing prompted and fine-tuned debate coaches. Helped with fine-tuning, evaluation, citation checks, participant interviews, and presentation.
 
 **Stack:** JavaScript · Node.js · OpenAI API
 
-### 🛡️ [LLM Red-Team Harness](https://github.com/Vaunty/legacy-red-team-harness)
+<h3 align="center">🛡️ <a href="https://github.com/Vaunty/legacy-red-team-harness">LLM Red-Team Harness</a></h3>
 
 Archived pipeline for prompt-injection, jailbreak, and data-leak tests, with model-judge verdicts and saved transcripts.
 
 **Stack:** Python · Ollama · SQLite
 
-### 🎓 [Adaptive Learning with LLMs](https://github.com/Vaunty/fine-tuned-llm-adaptive-learning)
+<h3 align="center">🎓 <a href="https://github.com/Vaunty/fine-tuned-llm-adaptive-learning">Adaptive Learning with LLMs</a></h3>
 
 Prepares and validates synthetic tutoring dialogues for fine-tuning, with a three-profile qualitative probe.
 
@@ -69,7 +69,7 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 
 **Research presentations:** NSF IUSE Scholars Academy (2025 and 2026). Presented adaptive-learning response comparisons as first author and a Gen Z housing-demographics study as sole student author at Great Minds in STEM. The studies concern model responses and county-level associations, respectively; neither establishes a causal effect.
 
-## 🧰 Toolkit
+<h2 align="center">🧰 Toolkit</h2>
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 
 </div>
 
-## WELL & Young Envoys Scholarship
+<h2 align="center">WELL & Young Envoys Scholarship</h2>
 
 **Selected for Kean University's Work-Earn-Live-Learn (WELL) Program, Summer 2026.** WELL combines paid campus work, residential learning, career development, and international study to support student success and timely graduation.
 
@@ -109,7 +109,7 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 - **Young Envoys Scholarship Fellow:** participated in the June 13-22, 2026 educational and cultural exchange in Wenzhou and Beijing, China, through the China Education Association for International Exchange (CEAIE).
 - **International speaking:** addressed international delegates at a CEAIE event in Beijing and reflected on the experience in my final WELL presentation, connecting technical work with cross-cultural communication and professional growth.
 
-## Conferences & research community
+<h2 align="center">Conferences & research community</h2>
 
 - **Great Minds in STEM (2025 & 2026):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
 - **CRA UR2PhD Undergraduate Mentoring Workshop & Research Showcase (April 2026, New Orleans):** presented our team's Debate Coach research and participated in research-career and graduate-school discussions.
@@ -117,13 +117,13 @@ Prepares and validates synthetic tutoring dialogues for fine-tuning, with a thre
 - **IFWY North American Regional Dialogue (September 2-3, 2025, Cornell Tech, Roosevelt Island, NYC):** selected as an IFWY Catalyst for the fully funded regional dialogue on environmental policy and sustainable solutions.
 - **International Forum We, the Youth Final Conference (2025, Seoul):** participated in the final conference as one of 25 North American delegates, contributing to environmental-policy and sustainability discussions.
 
-## Open-source contributions
+<h2 align="center">Open-source contributions</h2>
 
 - **[pyOpenSci](https://github.com/pyOpenSci/python-package-guide/pull/278):** proposed Windows-specific pipx installation instructions for the Hatch tutorial. [Recognized as a contributor for code and review](https://github.com/pyOpenSci/python-package-guide/pull/290).
 - **[PyScript documentation](https://github.com/pyscript/docs/pull/121):** submitted a correction to the getting-started guide clarifying JSON configuration setup.
 - **[annotated-types](https://github.com/annotated-types/annotated-types/pull/68):** collaborated with [cksleigen](https://github.com/cksleigen) on a proposed improvement to `GroupedMetadata` handling during my first open-source contributions.
 
-## 🌍 Teaching & community
+<h2 align="center">🌍 Teaching & community</h2>
 
 - **Kean Center for Cybersecurity:** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
 - **WiCyS secretary / PHD4FREE!:** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student Demetrius Hernandez for 15 attendees.
