@@ -19,8 +19,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewngoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:ngoym@kean.edu"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" /></a><br>
-  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf"><img alt="Industry resume PDF" src="https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge" /></a>
-  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf"><img alt="Research resume PDF" src="https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge" /></a>
+  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf?v=2026-10-27-rita-review"><img alt="Industry resume PDF" src="https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge" /></a>
+  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf?v=2026-10-27-rita-review"><img alt="Research resume PDF" src="https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge" /></a>
 </p>
 
 ---
