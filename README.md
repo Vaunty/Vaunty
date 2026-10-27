@@ -58,6 +58,15 @@ I'm interested in how AI systems fail, how we test their defenses, and what evid
 
 </div>
 
+## WELL & Young Envoys Scholarship
+
+**Selected for Kean University's Work-Earn-Live-Learn (WELL) Program, Summer 2026.** WELL combines paid campus work, residential learning, career development, and international study to support student success and timely graduation.
+
+- **Cybersecurity internship:** investigated nonprofit cyber incidents through OSINT for the Non-Profit Cyber Incident Repository, built a browser-controlled Arduino MEGA/ESP8266 smart-home lab, and taught at the Port Authority STEaM Camp serving 60 high school students.
+- **Career development:** participated in Career Management coursework, resume and interview preparation, financial-literacy workshops, employer panels, and networking with Kean alumni.
+- **Young Envoys Scholarship Fellow:** participated in the June 13-22, 2026 educational and cultural exchange in Wenzhou and Beijing, China, through the China Education Association for International Exchange (CEAIE).
+- **International speaking:** addressed international delegates at a CEAIE event in Beijing and reflected on the experience in my final WELL presentation, connecting technical work with cross-cultural communication and professional growth.
+
 ## Conferences & research community
 
 - **Great Minds in STEM (2025 & 2026):** presented NSF IUSE research on adaptive learning with LLMs (first author) and Gen Z housing demographics (sole student author).
