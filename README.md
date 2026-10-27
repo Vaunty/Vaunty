@@ -122,7 +122,7 @@
 <h2 align="center">🌍 Teaching & community</h2>
 
 - **[Kean Center for Cybersecurity](https://www.kean.edu/academics/college-business-and-public-management/center-cybersecurity-0):** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
-- **WiCyS secretary / [PHD4FREE!](https://kean.campuslabs.com/engage/event/12870047):** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student Demetrius Hernandez for 15 attendees.
+- **[WiCyS secretary](https://kean.campuslabs.com/engage/organization/wicyskean) / [PHD4FREE!](https://kean.campuslabs.com/engage/event/12870047):** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student Demetrius Hernandez for 15 attendees.
 - **IFWY fellow:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
 
 ---
