@@ -129,5 +129,5 @@
 
 <p align="center">
   Happy to talk <strong>AI security, research, or teaching</strong>.<br>
-  <a href="mailto:ngoym@kean.edu">Get in touch</a> &middot; <a href="https://vaunty.github.io/card/">Visit my card</a>
+  <a href="mailto:ngoym@kean.edu">Get in touch</a> &middot; <a href="https://vaunty.github.io/">Visit my website</a>
 </p>
