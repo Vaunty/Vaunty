@@ -17,10 +17,11 @@
 </p>
 
 <p align="center">
+  <a href="https://vaunty.github.io/"><img alt="Personal website" src="https://img.shields.io/badge/Website-2DA44E?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/matthewngoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:ngoym@kean.edu"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" /></a><br>
-  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Industry.pdf?v=2026-10-27-summary-mentor"><img alt="Industry resume PDF" src="https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge" /></a>
-  <a href="https://vaunty.github.io/card/resumes/Matthew_Ngoy_Resume_Research.pdf?v=2026-10-27-summary-mentor"><img alt="Research resume PDF" src="https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge" /></a>
+  <a href="https://vaunty.github.io/assets/resumes/Matthew_Ngoy_Resume_Industry.pdf"><img alt="Industry resume PDF" src="https://img.shields.io/badge/Industry_Resume-PDF-14805E?style=for-the-badge" /></a>
+  <a href="https://vaunty.github.io/assets/resumes/Matthew_Ngoy_Research_Resume.pdf"><img alt="Research resume PDF" src="https://img.shields.io/badge/Research_Resume-PDF-7057B8?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -30,10 +31,20 @@
 - **B.S. Computer Science, Cybersecurity Option**, Kean University. Graduating May 2027.
 - **Undergraduate researcher in [Boyang Li's group](https://www.liboyang.org/)** (Team → Current Students), studying verification in decentralized AI systems.
 - **AI security:** directing AI-assisted local experiments on a copied HadAgent prototype and studying methods for verifying LLM inference.
+- **Cybersecurity Research Intern, [Kean Center for Cybersecurity](https://www.kean.edu/academics/college-business-and-public-management/center-cybersecurity-0):** supporting solar-power integration for Mobile ACDC, a portable teaching data center, by defining rack-load, battery-capacity, and power-monitoring requirements.
 - **[Peer Mentor / Code Samurai](https://yoda.kean.edu/~samurai/):** helping Kean students work through Python, SQL, data structures, and debugging.
-- **KEAN CTF 2027:** co-building a college capture-the-flag competition with teammates and AI assistance.
+- **[CougarCTF 2027](https://cougarctf.tech/):** co-developing challenges and reference solvers with two teammates and AI assistance for an in-person college capture-the-flag competition at Kean.
 
 <h2 align="center">🛠️ Featured projects</h2>
+
+<h3 align="center">🐸 <a href="https://vaunty.github.io/">Personal Website</a></h3>
+
+<p align="center">
+  <a href="https://vaunty.github.io/"><img src="assets/website-preview.png" alt="Home page of vaunty.github.io: a 3D frog mascot in red-lensed sunglasses holds a Yoo-hoo beside a speech bubble that says Hey, I'm Matthew, above a question box and tabs for Timeline, Projects, Research, Security, Leadership and both resumes." width="720" /></a>
+</p>
+
+<p align="center">My interactive portfolio, built with AI assistance. A 3D frog mascot modeled in Blender follows your cursor, takes a sip when you click its Yoo-hoo, and introduces my work in a 3D speech bubble. A portfolio guide answers questions from my written notes (no live AI service), and tabs cover my timeline, projects, research, security work, leadership, and both resumes.</p>
+<p align="center"><em>Blender · Three.js · WebGL · GitHub Pages</em> · <a href="https://vaunty.github.io/">Live site</a> · <a href="https://github.com/Vaunty/Vaunty.github.io">Source</a></p>
 
 <h3 align="center">🔬 <a href="https://github.com/Vaunty/hadagent-verification-study">HadAgent Verification Study</a></h3>
 
@@ -65,6 +76,8 @@
 
 **Research presentations:** NSF IUSE Scholars Academy (2025 and 2026). Presented adaptive-learning response comparisons as first author and a Gen Z housing-demographics study as sole student author at Great Minds in STEM. The studies concern model responses and county-level associations, respectively; neither establishes a causal effect.
 
+**Hackathons:** co-built [PocketWatch](https://mvb-kuhacks.vercel.app), a student-discount prototype, during an overnight sprint at KeanUHackThis (April 2026). At the Kean ACM Hackathon (March 2025), two teammates and I built an [urban-development prototype](https://github.com/Vaunty/hackathonproject) with AI assistance and earned honorable mention as team Spyder Verse.
+
 <h2 align="center">🧰 Toolkit</h2>
 
 <div align="center">
@@ -87,7 +100,7 @@
 <table>
   <tr><th>Area</th><th>Tools &amp; methods</th></tr>
   <tr><td><strong>AI evaluation</strong></td><td>Ollama · OpenAI API · LLM-as-judge workflows · Citation checking</td></tr>
-  <tr><td><strong>Security</strong></td><td>OSINT · <a href="https://genai.owasp.org/llm-top-10/">OWASP LLM Top 10</a> · <a href="https://atlas.mitre.org/">MITRE ATLAS</a> · Adversarial testing</td></tr>
+  <tr><td><strong>Security</strong></td><td>OSINT · Nmap · <a href="https://genai.owasp.org/llm-top-10/">OWASP LLM Top 10</a> · <a href="https://atlas.mitre.org/">MITRE ATLAS</a> · Adversarial testing</td></tr>
   <tr><td><strong>Code &amp; data</strong></td><td>Python · Java · JavaScript · SQL · PHP · PowerShell</td></tr>
   <tr><td><strong>Development</strong></td><td>Linux · Docker · Git · Node.js · MySQL · SQLite · Arduino/ESP8266</td></tr>
   <tr><td><strong>AI-assisted workflow</strong></td><td>Claude Code · Codex</td></tr>
@@ -117,12 +130,13 @@
 
 - **[pyOpenSci](https://github.com/pyOpenSci/python-package-guide/pull/278):** proposed Windows-specific pipx installation instructions for the Hatch tutorial. [Recognized as a contributor for code and review](https://github.com/pyOpenSci/python-package-guide/pull/290).
 - **[PyScript documentation](https://github.com/pyscript/docs/pull/121):** submitted a correction to the getting-started guide clarifying JSON configuration setup.
-- **[annotated-types](https://github.com/annotated-types/annotated-types/pull/68):** collaborated with [cksleigen](https://github.com/cksleigen) on a proposed improvement to `GroupedMetadata` handling during my first open-source contributions.
+- **[annotated-types](https://github.com/annotated-types/annotated-types/pull/68):** collaborated with cksleigen on a proposed improvement to `GroupedMetadata` handling during my first open-source contributions.
 
 <h2 align="center">🌍 Teaching & community</h2>
 
 - **[Kean Center for Cybersecurity](https://www.kean.edu/academics/college-business-and-public-management/center-cybersecurity-0):** investigated nonprofit cyber incidents through OSINT and taught cryptography, programming, and IP addressing at STEaM Camp.
-- **[WiCyS secretary](https://kean.campuslabs.com/engage/organization/wicyskean) / [PHD4FREE!](https://kean.campuslabs.com/engage/event/12870047):** coordinated guest-speaker scheduling and event planning from August through October 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student [Demetrius Hernandez](https://www.linkedin.com/in/demetrius-hernandez/) for 15 attendees.
+- **C.Y.B.E.R. Talk on WKNJ 90.3 FM (November 2026):** explained phishing, public Wi-Fi risks, password security, and digital privacy as a student panelist.
+- **[WiCyS secretary](https://kean.campuslabs.com/engage/organization/wicyskean) / [PHD4FREE!](https://kean.campuslabs.com/engage/event/12870047):** coordinating guest-speaker scheduling and event planning since September 2026; presented pathways into research, paid undergraduate programs, and graduate fellowships alongside Notre Dame PhD student [Demetrius Hernandez](https://www.linkedin.com/in/demetrius-hernandez/) for 15 attendees.
 - **IFWY fellow:** received a fully funded fellowship at Cornell Tech, then was voted one of 25 North American delegates for the final conference in Seoul. Led the design and scope of SelectSolar, a proposal to reuse solar panels for educational and nonprofit institutions.
 
 ---
